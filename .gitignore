@@ -8,6 +8,7 @@ private_ssh_deploy_key
 *.tfstate
 *.tfstate.*
 .terraform.lock.hcl
+*.tfplan
 
 # Crash log files
 crash.log
